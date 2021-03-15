@@ -487,7 +487,6 @@ _upgradereport_files/
 *\.esm
 *\.et_ee
 *\.eu_es
-*\.exe
 *\.exr
 *\.f4v
 *\.f96
@@ -948,7 +947,6 @@ _upgradereport_files/
 *\.pm
 *\.pmg
 *\.pmp
-*\.png
 *\.pnm
 *\.pnt
 *\.pntg
